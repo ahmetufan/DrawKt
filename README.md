@@ -12,7 +12,7 @@ BlendMode: Controls color blending modes in drawings. ✅<br/>
 
 <p align="center">
 
-  <img src="" width="23%" />
+  <img src="https://github.com/ahmetufan/DrawKt/assets/100429928/c2cef615-9e32-4ef0-a40b-3544ce40e35b" width="14%" />
 
 </p>
 
